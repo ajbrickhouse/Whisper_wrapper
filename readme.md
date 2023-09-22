@@ -1,4 +1,4 @@
-# Open AI Whisper Wrapper
+# OpenAI [Whisper](https://openai.com/research/whisper) Wrapper
 
 - This is a wrapper intended to be packaged as an executable for use on systems without python.
 
